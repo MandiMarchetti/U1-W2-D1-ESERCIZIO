@@ -72,5 +72,5 @@ let name2 = "John";
 console.log(name1 == name2);
 
 //EXTRA
-console.log(name1 != name2); //--> Not using lowercase;
+console.log(name1 != name2); //--> Not using lowercase; I've tried to find the explanation on google, but I couldn't apply.
 
